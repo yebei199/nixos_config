@@ -19,6 +19,7 @@
   # 其他常用包
   home.packages = with pkgs; [
     fcitx5-configtool
+    rustscan
     fastfetch
     bottom
     qq

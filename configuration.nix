@@ -52,14 +52,12 @@ i18n.inputMethod = {
     #google-chrome
     chromium
     quickshell
-    home-manager
     xray
     xremap
     gtk3
     gtk4
     xorg.xinit
     xwayland-satellite
-    qq
     feishu
     v2rayn
     waybar
